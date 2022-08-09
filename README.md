@@ -9,15 +9,15 @@
 
 ---
 
-- 🔭 I’m currently working on [Hispanic Hackers Nextjs Website](https://www.hispanichackers.com/).
+- 🔭 I’m currently working on [JS Framework Starters](https://github.com/timOTdev/js_framework_starters) and [Hispanic Hackers Nextjs Website](https://www.hispanichackers.com/).
 
-- 🌱 I’m currently learning **React, Nextjs, GraphqQL**.
+- 🌱 I’m currently learning **Svelte, SvelteKit**.
 
 - 👨‍💻 All of my projects are available at [my portfolio site](https://www.timothyhoang.dev/).
 
 - 📫 Reach me at **tim@timothyhoang.dev**.
 
-- ⚡ Fun fact: **I enjoy learning Spanish**.<br />
+- ⚡ Fun fact: **I enjoy magic pueblos**.<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
