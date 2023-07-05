@@ -9,13 +9,13 @@
 
 ---
 
-- 🔭 I’m currently working on [JS Framework Starters](https://github.com/timOTdev/js_framework_starters) and [Hispanic Hackers Nextjs Website](https://www.hispanichackers.com/).
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Svelte, SvelteKit**.
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [my portfolio site](https://www.timothyhoang.dev/).
 
-- 📫 Reach me at **tim@timothyhoang.dev**.
+- 📫 Reach me at
 
 - ⚡ Fun fact: **I enjoy magic pueblos**.<br />
 
@@ -204,7 +204,7 @@
       width="40"
     />
   </a>
-  <a href="https://twitter.com/timotdev" target="blank">
+<!--   <a href="https://twitter.com/timotdev" target="blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -212,7 +212,7 @@
       height="30"
       width="40"
     />
-  </a>
+  </a> -->
 </p>
 
-<p align="right">Last updated: April 6, 2022</p>
+<p align="right">Last updated: July 5, 2023</p>
