@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim.</h1>
-<h3 align="center">Software Engineer, Alumni of Bloomtech, Former Pharmacist</h3>
+<h3 align="center">Software Engineer, Bloomtech Alumni</h3>
 
 <p>
   <img align="right" src="./coder.gif" alt="coder gif" />
